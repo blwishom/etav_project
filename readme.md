@@ -1,8 +1,11 @@
 # Welcome to the Extract Transform Analyze and Visualize Readme!
 
-### This project is coded in a Jupyter Notebook in which each kernal can be ran individually after the first 2 kernals are ran in sequential order. The first kernal imports the necessary technologies for the project while the second kernal reads the data used for the project. The photographs below exemplify the results of each kernals.
+This project is coded in a Jupyter Notebook in which each kernal can be ran individually after the first 2 kernals are ran in sequential order. The first kernal imports the necessary technologies for the project while the second kernal reads the data used for the project. The photographs below exemplify the results of each kernal.
 
-#### Run the kernals by hovering over each kernal then clicking the play button in the top left corner. Once a green check displays in the bottom left corner, the kernal has completed running. You can also run all kernals simultaneously in sequential order by clicking the "Run All" play button at the top of the file.
+Run the kernals by hovering over each kernal then clicking the play button in the top left corner. Once a green check displays in the bottom left corner, the kernal has completed running. You can also run all kernals simultaneously in sequential order by clicking the "Run All" play button at the top of the file.
+
+Use this link (https://github.com/blwishom/etav_project.git) to clone the repo in your terminal and begin to explore!
+
 ![Screenshot (472)](https://user-images.githubusercontent.com/79879124/236651905-8bb13b5d-c1e5-4964-877e-99faee3cadc0.png)
 
 1. These 2 kernals import the necessary technologies for the project and read the data used for the project:
